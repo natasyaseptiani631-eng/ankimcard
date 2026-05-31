@@ -602,9 +602,9 @@ elif st.session_state.mode == "tentang":
         </p>
         <br>
         <table style="width:100%;font-size:0.85rem;border-collapse:collapse">
-            <tr><td style="color:var(--text2);padding:4px 0;width:140px">📚 Mata Kuliah</td><td style="color:var(--text);font-weight:600">Kimia Analitik</td></tr>
-            <tr><td style="color:var(--text2);padding:4px 0">🏫 Program Studi</td><td style="color:var(--text);font-weight:600">— isi nama prodi —</td></tr>
-            <tr><td style="color:var(--text2);padding:4px 0">🏛️ Institusi</td><td style="color:var(--text);font-weight:600">— isi nama kampus —</td></tr>
+            <tr><td style="color:var(--text2);padding:4px 0;width:140px">📚 Mata Kuliah</td><td style="color:var(--text);font-weight:600">Logika Pemrograman Komputer</td></tr>
+            <tr><td style="color:var(--text2);padding:4px 0">🏫 Program Studi</td><td style="color:var(--text);font-weight:600">— Analisis Kimia —</td></tr>
+            <tr><td style="color:var(--text2);padding:4px 0">🏛️ Institusi</td><td style="color:var(--text);font-weight:600">— Politeknik AKA Bogor —</td></tr>
             <tr><td style="color:var(--text2);padding:4px 0">📅 Tahun</td><td style="color:var(--text);font-weight:600">2026</td></tr>
         </table>
     </div>
@@ -613,23 +613,23 @@ elif st.session_state.mode == "tentang":
         <div class="about-title">🎓 Anggota Kelompok</div>
         <div class="member-row">
             <div class="member-num">1</div>
-            <div><div class="member-name">— Nama Anggota 1 —</div><div class="member-nim">NIM: —————————</div></div>
+            <div><div class="member-name">— Anisa Ramanda —</div><div class="member-nim">NIM: 2560576 —————————</div></div>
         </div>
         <div class="member-row">
             <div class="member-num">2</div>
-            <div><div class="member-name">— Nama Anggota 2 —</div><div class="member-nim">NIM: —————————</div></div>
+            <div><div class="member-name">— Galih Pratama —</div><div class="member-nim">NIM: 2560634 —————————</div></div>
         </div>
         <div class="member-row">
             <div class="member-num">3</div>
-            <div><div class="member-name">— Nama Anggota 3 —</div><div class="member-nim">NIM: —————————</div></div>
+            <div><div class="member-name">— M. Djaky Tofanny —</div><div class="member-nim">NIM: 2560662 —————————</div></div>
         </div>
         <div class="member-row">
             <div class="member-num">4</div>
-            <div><div class="member-name">— Nama Anggota 4 —</div><div class="member-nim">NIM: —————————</div></div>
+            <div><div class="member-name">— Natasya Septiani —</div><div class="member-nim">NIM: 2560714 —————————</div></div>
         </div>
         <div class="member-row">
             <div class="member-num">5</div>
-            <div><div class="member-name">— Nama Anggota 5 —</div><div class="member-nim">NIM: —————————</div></div>
+            <div><div class="member-name">— Siti Fadilah Afkar —</div><div class="member-nim">NIM: 2560784 —————————</div></div>
         </div>
     </div>
 

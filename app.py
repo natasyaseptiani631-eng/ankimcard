@@ -11,7 +11,6 @@ st.set_page_config(
 )
 
 # ─── LOAD DATA ────────────────────────────────────────────────────────────────
-@st.cache_data
 def load_data():
     with open("data/flashcards.json", "r", encoding="utf-8") as f:
         return json.load(f)

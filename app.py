@@ -613,23 +613,23 @@ elif st.session_state.mode == "tentang":
         <div class="about-title">🎓 Anggota Kelompok 3</div>
         <div class="member-row">
             <div class="member-num">1</div>
-            <div><div class="member-name">— Anisa Ramanda —</div><div class="member-nim">NIM: 2560576 —</div></div>
+            <div><div class="member-name">— Anisa Ramanda —</div><div class="member-nim">NIM: 2560576 </div></div>
         </div>
         <div class="member-row">
             <div class="member-num">2</div>
-            <div><div class="member-name">— Galih Pratama —</div><div class="member-nim">NIM: 2560634 —</div></div>
+            <div><div class="member-name">— Galih Pratama —</div><div class="member-nim">NIM: 2560634 </div></div>
         </div>
         <div class="member-row">
             <div class="member-num">3</div>
-            <div><div class="member-name">— M. Djaky Tofanny —</div><div class="member-nim">NIM: 2560662 —</div></div>
+            <div><div class="member-name">— M. Djaky Tofanny —</div><div class="member-nim">NIM: 2560662 </div></div>
         </div>
         <div class="member-row">
             <div class="member-num">4</div>
-            <div><div class="member-name">— Natasya Septiani —</div><div class="member-nim">NIM: 2560714 —</div></div>
+            <div><div class="member-name">— Natasya Septiani —</div><div class="member-nim">NIM: 2560714 </div></div>
         </div>
         <div class="member-row">
             <div class="member-num">5</div>
-            <div><div class="member-name">— Siti Fadilah Afkar —</div><div class="member-nim">NIM: 2560784 —</div></div>
+            <div><div class="member-name">— Siti Fadilah Afkar —</div><div class="member-nim">NIM: 2560784 </div></div>
         </div>
     </div>
 
@@ -637,7 +637,7 @@ elif st.session_state.mode == "tentang":
         <div class="about-title">👨‍🏫 Dosen Penanggung Jawab</div>
         <div class="member-row">
             <div class="member-num">👤</div>
-            <div><div class="member-name">— Dewi Pujo Ningsih, M.Si —<
+            <div><div class="member-name">— Dewi Pujo Ningsih, M.Si <
         </div>
     </div>
     """, unsafe_allow_html=True)

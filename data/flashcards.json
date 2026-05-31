@@ -4,42 +4,42 @@
       "id": "anjen",
       "name": "Analisis Jenis",
       "icon": "🧪",
-      "description": "Hafalan reaksi spesifik, warna larutan, dan endapan kation/anion.",
+      "description": "Hafalan warna larutan, dan endapan kation golongan I-V.",
       "cards": [
         {
           "id": 1,
-          "front": "Kation Fe³⁺ jika ditambahkan pereaksi SCN⁻ akan menghasilkan...",
-          "back": "Larutan berwarna MERAH DARAH"
+          "front": "Kation Fe³⁺ jika ditambahkan pereaksi SCN⁻ akan menghasilkan larutan berwarna...",
+          "back": "Larutan berwarna merah"
         },
         {
           "id": 2,
-          "front": "Reaksi spesifik untuk mengidentifikasi kation Pb²⁺ menggunakan pereaksi K₂CrO₄ akan menghasilkan...",
-          "back": "Endapan berwarna KUNING, larutan tidak berwarna"
+          "front": "Reaksi spesifik untuk mengidentifikasi kation Pb²⁺ menggunakan pereaksi K₂CrO₄ akan menghasilkan endapan...larutan berwarna...",
+          "back": "Endapan berwarna kuning, larutan tidak berwarna"
         },
         {
           "id": 3,
-          "front": "Kation Al³⁺ jika ditambahkan pereaksi NH₄OH akan menghasilkan...",
-          "back": "Endapan berwarna PUTIH, larutan tidak berwarna (Al(OH)₃)"
+          "front": "Kation Al³⁺ jika ditambahkan pereaksi NH₄OH akan menghasilkan endapan...larutan berwarna...",
+          "back": "Endapan berwarna putih, larutan tidak berwarna (Al(OH)₃)"
         },
         {
           "id": 4,
-          "front": "Kation Ba²⁺ jika ditambahkan pereaksi K₂CrO₄ akan menghasilkan...",
-          "back": "Endapan berwarna KUNING (BaCrO₄)"
+          "front": "Kation Ba²⁺ jika ditambahkan pereaksi K₂CrO₄ akan menghasilkan endapan...",
+          "back": "Endapan berwarna kuning (BaCrO₄)"
         },
         {
           "id": 5,
           "front": "Kation Golongan I (Ag⁺, Pb²⁺, Hg₂²⁺) akan mengendap jika ditambahkan pereaksi berupa...",
-          "back": "Asam Klorida (HCl) dalam bentuk ENDAPAN PUTIH"
+          "back": "Asam Klorida (HCl) dalam bentuk endapan putih"
         },
         {
           "id": 6,
-          "front": "Pada kation Sr²⁺ jika ditambahkan pereaksi Na₂CO₃ akan menghasilkan...",
-          "back": "Endapan berwarna PUTIH, larutan kuning"
+          "front": "Pada kation Sr²⁺ jika ditambahkan pereaksi Na₂CO₃ akan menghasilkan endapan...larutan berwarna...",
+          "back": "Endapan berwarna putih, larutan kuning"
         },
         {
           "id": 7,
           "front": "Kation Ca²⁺ akan mengendap jika ditambahkan pereaksi berupa...",
-          "back": "Asam oksalat dan amonium hidroksida dalam bentuk ENDAPAN PUTIH (CaC₂O₄)"
+          "back": "Asam oksalat dan amonium hidroksida dalam bentuk endapan putih (CaC₂O₄)"
         }
       ]
     },
@@ -51,38 +51,38 @@
       "cards": [
         {
           "id": 1,
-          "front": "Apa bedanya kertas saring kuantitatif (bebas abu seperti Whatman) dengan kertas saring biasa untuk laporan gravimetri?",
+          "front": "Apa bedanya kertas saring kuantitatif (bebas abu seperti Whatman) dengan kertas saring biasa untuk praktikum gravimetri?",
           "back": "Kertas saring kuantitatif meninggalkan berat abu HAMPIR NOL saat dipijarkan di dalam tanur, sehingga tidak memengaruhi berat endapan murni."
         },
         {
           "id": 2,
           "front": "Whatman No. 41 digunakan untuk endapan berbentuk... sedangkan Whatman No. 42 untuk endapan berbentuk...",
-          "back": "No. 41 → endapan GELATIN/GUMPALAN BESAR (seperti Besi); No. 42 → endapan KRISTAL HALUS (seperti Barium)"
+          "back": "No. 41 → endapan gelatin/gumpalan besar (seperti Besi); No. 42 → endapan kristal halus (seperti Barium)"
         },
         {
           "id": 3,
           "front": "Bagaimana tampilan fisik dan warna endapan Barium Sulfat (BaSO₄) sesaat setelah ditambahkan reagen pengendap H₂SO₄?",
-          "back": "Endapan PUTIH HALUS berbentuk KRISTAL"
+          "back": "Endapan putih halus berbentuk kristal"
         },
         {
           "id": 4,
           "front": "Bagaimana cara menguji bahwa pencucian endapan BaSO₄ sudah bebas dari pengotor ion klorida (Cl⁻)?",
-          "back": "Filtrat cucian ditetesi AgNO₃. Jika filtrat TETAP JERNIH (tidak keruh putih), berarti endapan sudah bersih."
+          "back": "Filtrat cucian ditetesi AgNO₃. Jika filtrat tetap jernih (tidak keruh putih), berarti endapan sudah bersih."
         },
         {
           "id": 5,
           "front": "Bagaimana karakteristik fisik dan warna endapan Fe(OH)₃ setelah penambahan NH₄OH?",
-          "back": "Berbentuk GUMPALAN GELATIN (seperti lem/selai) berwarna COKELAT KEMERAHAN"
+          "back": "Berbentuk gumpalan gelatin (seperti lem/selai) berwarna coklat kemerahan"
         },
         {
           "id": 6,
           "front": "Setelah endapan besi dipijarkan di dalam tanur (suhu tinggi), warna endapan berubah menjadi...",
-          "back": "COKELAT KEHITAMAN / MERAH BATA TUA (karena berubah menjadi Fe₂O₃)"
+          "back": "Merah bata tua (karena berubah menjadi Fe₂O₃)"
         },
         {
           "id": 7,
           "front": "Bagaimana sifat fisik dan warna endapan Perak Klorida (AgCl) yang terbentuk dalam suasana asam?",
-          "back": "Endapan PUTIH BERGUMPAL"
+          "back": "Endapan putih"
         },
         {
           "id": 8,

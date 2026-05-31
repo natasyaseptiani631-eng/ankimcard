@@ -637,7 +637,7 @@ elif st.session_state.mode == "tentang":
         <div class="about-title">👨‍🏫 Dosen Penanggung Jawab</div>
         <div class="member-row">
             <div class="member-num">👤</div>
-            <div><div class="member-name">— Dewi Pujo Ningsih, M.Si 
+            <div><div class="member-name">—  Bu Dewi Pujo Ningsih, M.Si 
         </div>
     </div>
     """, unsafe_allow_html=True)
